@@ -11,7 +11,7 @@ function App() {
           className="App-link"
           href="https://google.com"
         >
-          Aprenda a diferença entre o git-merge e o git-rebase
+          Analisando conflitos no git-rebase
         </a>
 
         <h1>Aprendendo agora o git-rebase!</h1>
