@@ -15,6 +15,7 @@ function App() {
         </a>
 
         <h1>Seja bem-vindo!</h1>
+        <h1>Aprendendo agora o git-rebase!</h1>
       </header>
     </div>
   );
