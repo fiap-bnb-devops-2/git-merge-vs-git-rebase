@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="Logo do React" />
         <p>git-merge vs git-rebase</p>
+        <p>git-merge vs git-rebase</p>
         <a
           className="App-link"
           href="https://google.com"
