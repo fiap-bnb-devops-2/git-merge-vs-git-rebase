@@ -13,6 +13,8 @@ function App() {
         >
           Aprenda a diferença entre o git-merge e o git-rebase
         </a>
+
+        <h1>Seja bem-vindo!</h1>
       </header>
     </div>
   );
