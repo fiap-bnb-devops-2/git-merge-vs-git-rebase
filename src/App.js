@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Aprenda a diferença entre o git-merge e o git-rebase
         </a>
       </header>
     </div>
