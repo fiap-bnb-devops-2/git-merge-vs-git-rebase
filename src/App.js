@@ -10,7 +10,6 @@ function App() {
         <a
           className="App-link"
           href="https://google.com"
-          target="_blank"
           rel="noopener noreferrer"
         >
           Aprenda a diferença entre o git-merge e o git-rebase
