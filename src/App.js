@@ -16,6 +16,8 @@ function App() {
         </a>
 
         <h1>Aprendendo agora o git-rebase!</h1>
+        <h2>Aprendendo agora o git-rebase com conflitos!</h2>
+        <h3>Aprendendo agora o git-rebase com conflitos!</h3>
       </header>
     </div>
   );
